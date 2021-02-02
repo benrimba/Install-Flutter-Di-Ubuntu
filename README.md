@@ -7,7 +7,7 @@ Ekstrak file yang sudah didownload, misal file yang didownload tadi berada di fo
 cd ~/Downloads
 ```
 ```py	
-tar xf flutter_linux_1.17.5-stable.tar.xz --directory /home/$USER/
+tar xf [flutter_linux_1.22.6-stable.tar.xz->disesuaikan versiny] --directory /home/$USER/
 ```
 Tambahkan flutter ke dalam path. Buka file .bashrc.
 ```py	
