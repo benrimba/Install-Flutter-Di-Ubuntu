@@ -1,4 +1,4 @@
-# InstallAndroidStudiodanFlutter
+# Install Flutter di Linux Ubuntu
 Setelah menginstall Git, download Flutter SDK pada website resminya https://flutter.dev/docs/get-started/install/linux.
 
 Ekstrak file yang sudah didownload, misal file yang didownload tadi berada di folder Downloads ingin diekstrak ke directory Home, buka terminal (CTRL+ALT+T) dan jalankan perintah.
